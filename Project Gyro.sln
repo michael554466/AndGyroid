@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Gyro.CSharp.Plugins", "Project Gyro.CSharp.Plugins.csproj", "{C4E9A30D-4D80-71A1-693F-B61A548CC35F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Gyro.CSharp", "Project Gyro.CSharp.csproj", "{2C3BDECE-7C8C-3128-853E-B797FAC3760C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Gyro.CSharp.Editor", "Project Gyro.CSharp.Editor.csproj", "{0F7B02E7-B530-119B-DE47-226EEDDBF5AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4E9A30D-4D80-71A1-693F-B61A548CC35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E9A30D-4D80-71A1-693F-B61A548CC35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E9A30D-4D80-71A1-693F-B61A548CC35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E9A30D-4D80-71A1-693F-B61A548CC35F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3BDECE-7C8C-3128-853E-B797FAC3760C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3BDECE-7C8C-3128-853E-B797FAC3760C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3BDECE-7C8C-3128-853E-B797FAC3760C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3BDECE-7C8C-3128-853E-B797FAC3760C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7B02E7-B530-119B-DE47-226EEDDBF5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7B02E7-B530-119B-DE47-226EEDDBF5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7B02E7-B530-119B-DE47-226EEDDBF5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7B02E7-B530-119B-DE47-226EEDDBF5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
